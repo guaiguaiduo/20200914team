@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\zhujiemian.o
+./debug\board.o
+./debug\stone.o
+./debug\step.o
+./debug\singlegame.o
+./debug\qrc_image.o
+./debug\moc_zhujiemian.o
+./debug\moc_board.o
+./debug\moc_step.o
+./debug\moc_singlegame.o
+);

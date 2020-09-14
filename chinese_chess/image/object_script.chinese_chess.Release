@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\zhujiemian.o
+./release\board.o
+./release\stone.o
+./release\step.o
+./release\singlegame.o
+./release\qrc_image.o
+./release\moc_zhujiemian.o
+./release\moc_board.o
+./release\moc_step.o
+./release\moc_singlegame.o
+);
